@@ -83,8 +83,24 @@ El documento resalta la importancia de la motivación intrínseca, promoviendo a
 **Conclusión**
 La ingeniería de software en Google requiere líderes que se enfoquen más en guiar, influenciar y servir que en gestionar al estilo tradicional. Los mejores resultados provienen de equipos autónomos, bien orientados y protegidos de la “caos organizacional”, liderados con humildad, respeto y confianza.
 
-
 ## EM vs Tech Lead vs IC
+
+_Un gerente de ingeniería (EM), un líder técnico (TL) y un colaborador individual (IC) juegan un papel vital en los equipos tecnológicos. Sin embargo, sus responsabilidades y áreas de enfoque difieren. El EM prioriza la gestión del equipo, incluida la contratación, la dinámica del equipo, la facilitación de la comunicación y la garanría de los resultados. A menudo se mantienen alejados de la codificación diaria para entrarse en asuntos estratégicos.
+Por otro lado, un Tech Lead predica con el ejemplo. Por lo general, son prácticos con la codificación y toman decisiones técnicas clave. Los IC, o miembros del equipo, son ingenieros calificados que trabajan activamente en el producto y están dirigidos por el líder técnico y EM.
+El desafío para un EM aquí radica en equilibrar las tareas de gestión con el mantenimento de una ventaja técnica. Un buen EM reconoce estas diferencias, colabora de manera efectiva y garantiza el buen funcionamiento del equipo al tiempo que fomenta un entorno propicio para el crecimiento y el aprendizaje._
+
+La importancia de entender las diferencias y relaciones entre un Engineering Manager (EM), un Tech Lead (TL) y un Individual Contributor (IC) radica en optimizar el desempeño y crecimiento del equipo de ingeniería.
+
+El EM es vital porque se enfoca en la gestión de personas, asegurando que el equipo funcione bien a nivel organizacional, cubriendo contratación, dinámica, comunicación, y resultados estratégicos. Este rol es crucial para crear un ambiente propicio para el desarrollo y la motivación del equipo, equilibrando las necesidades del negocio con las del personal.
+
+El Tech Lead tiene un rol técnico y de liderazgo directo sobre la implementación, decisiones tecnológicas y arquitectura del producto. Su importancia está en ser un ejemplo técnico práctico, guiando y elevando la calidad del trabajo del equipo mediante su experiencia y liderazgo técnico.
+
+Los Individual Contributors son los ejecutores principales, dedicados a la construcción activa del producto bajo la guía de los líderes técnicos y el EM. Su importancia está en producir el trabajo técnico real que impulsa el desarrollo del producto.
+
+El desafío y valor está en la colaboración efectiva entre estos tres roles, con el EM equilibrando la gestión y manteniendo conocimiento técnico suficiente, el TL liderando desde la práctica técnica, y los ICs aportando ejecución y especialización. Esto asegura equipos alineados, motivados y técnicamente sólidos, donde cada rol complementa al otro para alcanzar objetivos comunes sin solapamientos ni vacíos en responsabilidades.
+
+Además, reconocer estas diferencias ayuda a distribuir cargas de trabajo adecuadamente, fomentar el crecimiento profesional y evitar quemarse o el estancamiento, manteniendo alto rendimiento y satisfacción en el equipo. Esta estructura facilita la escalabilidad y la entrega de valor continuo para la organización y sus productos.
+
 ## Áreas de enfoque clave
 ### Gente
 ### Producto

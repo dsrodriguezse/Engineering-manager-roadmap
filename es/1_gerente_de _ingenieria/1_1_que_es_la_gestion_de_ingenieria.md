@@ -103,5 +103,10 @@ Además, reconocer estas diferencias ayuda a distribuir cargas de trabajo adecua
 
 ## Áreas de enfoque clave
 ### Gente
+
+_Los gerentes de ingenierìa tienen un papel crucial en la gestión del aspecto de la gente en sus equipos. Son responsables de construir, nutrir y guiar a sus equipos hacia un objetivo compartido. Esto implica contratar el talento adecuado, fomentar la colaboración y promover un entorno positivo para la lluvia de ideas y la innovación. También abordan conflictos personales y profesionales, garantizando un equipo unificado y eficiente.
+Manejar a la gente no es tarea fácil. Los desafíos vienen en muchas formas, como enfrentamientos de personalidad, luchas de poder o contribución desigual de los miembros del equipo. Para abordarlos, el genrente ebe tener excelentes habilidades de comunicación, empatía y liderazgo. Las sesiones de retroalimentación y las actividades de team building regulares también pueden ayudar.
+El éxito en la gestión de las personas es un delicado equilibrio de experiencia técnica e inteligencia interpersonal. Un buen gerente de ingeniería no solo guía técnicamente a su equipo, sino también emocionalmente. Celebran el éxito, abordan los fracasos y hacen que todos se sientan valorados y escuchados._
+
 ### Producto
 ### Proceso 

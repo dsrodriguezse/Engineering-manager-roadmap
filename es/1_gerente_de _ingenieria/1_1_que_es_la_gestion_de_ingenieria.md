@@ -108,5 +108,11 @@ _Los gerentes de ingenierìa tienen un papel crucial en la gestión del aspecto 
 Manejar a la gente no es tarea fácil. Los desafíos vienen en muchas formas, como enfrentamientos de personalidad, luchas de poder o contribución desigual de los miembros del equipo. Para abordarlos, el genrente ebe tener excelentes habilidades de comunicación, empatía y liderazgo. Las sesiones de retroalimentación y las actividades de team building regulares también pueden ayudar.
 El éxito en la gestión de las personas es un delicado equilibrio de experiencia técnica e inteligencia interpersonal. Un buen gerente de ingeniería no solo guía técnicamente a su equipo, sino también emocionalmente. Celebran el éxito, abordan los fracasos y hacen que todos se sientan valorados y escuchados._
 
+La importancia de la gestión del aspecto humano en equipos de ingenierìa radica en que los gerentes son responsables de construir, nutrir y guiar equipos hacia objetivos comunes, lo cual es escencial para el xito del proyecto y la organización. Gestionar a las personas incluye contratar el talento adecuado, fomentar la colaboración, crear un ambiente positivo para la innovación y resolvver conflictoa personales y profesionales, asegurando la unidad y eficiencia del equipo.
+
+Esta gestión es copleja y requiere habilidades de comunicación, empatía y lidereazgo para enfrentar desafíos como enfrentamientos de personalidad o contribuciones desiguales. Además, un gerente efectivo combina experiencia técnica con inteligencia interpersonal, guiando no solo en lo técnico sino también en lo emocional, valorando y escuchando a cada mienbro.
+
+El éxito en manejar a la gente se traduce en equipos motivados, seguros para tomar riesgos y aprender de los errores sin temor a represalias, lo que peomueve una cultura de confianza y desempeño sostenible. Por ellos, el gerente debe ser un lifer que sirva al equipo, eliminando obstaculos, manteniendo la calma y estableciendo metas claras que solo entregue resultados sino que también crezca profesionalmente y se mantenga comprometido.
+
 ### Producto
 ### Proceso 
